@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\vjezba2\vjezba2\bin\Debug\vjezba2.exe
+C:\Users\student\Desktop\vjezba2\vjezba2\bin\Debug\vjezba2.pdb
+C:\Users\student\Desktop\vjezba2\vjezba2\obj\x86\Debug\vjezba2.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\vjezba2\vjezba2\obj\x86\Debug\vjezba2.Properties.Resources.resources
+C:\Users\student\Desktop\vjezba2\vjezba2\obj\x86\Debug\vjezba2.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\vjezba2\vjezba2\obj\x86\Debug\vjezba2.exe
+C:\Users\student\Desktop\vjezba2\vjezba2\obj\x86\Debug\vjezba2.pdb
